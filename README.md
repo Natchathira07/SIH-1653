@@ -1,50 +1,62 @@
 # Smart India Hackathon Workshop
-# Date: 27-02-2025
+# Date:06-03-2025
 ## Register Number: 212223100024
-## Name: Yagnesh Reddy
+## Name: Natchathira VD
 ## Problem Title
-SIH 1653: Web based Selector-Applicant Simulation Software
+SIH 1653: Team Collaboration & Project Management
+
 ## Problem Description
-Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defence carries out interviews for applications received against advertised vacancies and for promotion to next higher grade for scientific manpower inducted within DRDO. Description: The process of interviewing is a challenging task. An unbiased objective interviewing process helps identify the right talent. The basic process of an interview involves posing a set of questions by an interviewer and thereafter evaluating responses from candidates. Thus, the questions asked should be relevant and match the area/ expertise of the applicant and the responses should also be of relevance w.r.t. the question asked. Expected Solution: The proposed solution should provide experts as well as candidates a real life Board Room experience, starting with initial ice-breaking questions leading to in-depth techno-managerial (depending on the level of candidate) questions. It shall also be able to provide a quantifiable score for experts as well as the candidate for the relevancy of questions w.r.t. the area/ expertise of the applicant. Similarly, candidate responses should also be graded for relevancy w.r.t. the question asked, finally assisting in arriving at an overall score for the subject knowledge of the candidate and thus his/ her suitability against the advertised post.
+In large-scale events like the Smart India Hackathon (SIH), effective team collaboration and project management are essential for success. However, many teams struggle with communication, task distribution, time management, and decision-making, which can lead to inefficiencies, missed deadlines, and incomplete projects.
 
 ## Problem Creater's Organization
 Ministry of Defence
 
 ## Idea
-1.Nearest E-Waste Facility Locator: Use Geocoding AI to find nearby e-waste facilities based on the user's current location. Implement image recognition to categorize e-waste when users upload photos, suggesting the appropriate recycling facility.
+1.Define Clear Roles & Responsibilities: Assign specific roles to each team member (Team Lead, Developer, Designer, Researcher, Presenter, etc.).
+Use the RACI Matrix (Responsible, Accountable, Consulted, Informed) to clarify roles.
 
-2.Virtual Assistant: Offer a virtual assistant that provides guidance on proper e-waste disposal methods and data wiping techniques for devices with sensitive information.
+2.Use Agile Methodologies: Follow the Scrum framework with daily stand-up meetings (15-minute updates on progress).
+Use Kanban boards (Trello, Jira) to track tasks visually.
+Divide the project into sprints (short, focused work cycles)
 
-3.Educational Pop-ups: Display educational pop-ups to raise awareness about the harmful effects of e-waste on the environment and human health.
+3.Effective Communication & Collaboration Tools: Use Slack, Discord, or Microsoft Teams for real-time discussions.
+Document project details in Notion, Confluence, or Google Docs.
 
-4.Reward Points System: Introduce a reward points system where users earn points for each e-waste disposal, encouraging participation in recycling programs.
+4.Smart Task Management & Prioritization: Urgent & Important – Do immediately
+                                          Important but Not Urgent – Schedule for later
+                                          Urgent but Not Important – Delegate
+                                          Neither Urgent nor Important – Avoid
 
-5.Real-time Analytics Dashboard: Provide e-waste facilities with a dashboard showcasing real-time analytics and insights, including recycling rates and energy savings, to help users understand their impact on the environment.
+5.Post-Project Documentation & Knowledge Sharing: Maintain a project wiki for future reference.
+                                                  Conduct "Lessons Learned" sessions after each project.
+                                                  Share insights and best practices through blogs or presentations.
 
 ## Proposed Solution / Architecture Diagram
 
-![image](https://github.com/user-attachments/assets/f7224368-ef3c-407f-af96-86e87738628a)
+![Screenshot 2025-03-06 172504](https://github.com/user-attachments/assets/d72d023c-4c23-44a9-949b-3b494f41d3b6)
+
 
 ## Use Cases
-![Uploading image.png…]()
+![Screenshot 2025-03-06 172751](https://github.com/user-attachments/assets/e0c7298a-bb70-4913-be93-13aa7abd772f)
+
 
 
 ## Technology Stack
-React.js
+Jira
 
-Node.js
+Pomodone
 
-PostgreSQL
+React.js 
 
-Google maps
+PostgreSQL 
 
-Firebox Authenticator
+Azure AD
 
-Git , Postman or Insomnia
+Bitwarden 
 
 ## Dependencies
-Mapping service- 10 days
+Mapping service- 20 days
 
-Data collection- 10 days
+Data collection- 20 days
 
-budget- rs.50,000
+budget- rs.1,00,000
